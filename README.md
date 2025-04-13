@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-A web application that provides instant motivational quotes based on user input or random prompts using the OpenRouter LLM API. Users can enter how they are feeling, and the application will generate a relevant motivational message. There's also a "Clear" button to reset the input.
+A web application that provides instant motivational quotes based on user input or random prompts using the OpenRouter LLM API. Users can enter how they are feeling, and the application will generate a relevant motivational message.
 
 ## Dependencies
 
