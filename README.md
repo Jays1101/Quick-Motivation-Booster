@@ -77,7 +77,7 @@ What's a short, happy thought to lighten my mood?
 Give me a quick dose of positivity to feel better.
 Say something silly and uplifting in one sentence.
 What's a tiny ray of sunshine in words?
-Share a very short, positive affirmation.
+Share a very short, positive affirmation.\
 What's a single, optimistic thought for the moment?
 Give me a quick reminder of something good.
 Say one positive thing to shift my perspective.
